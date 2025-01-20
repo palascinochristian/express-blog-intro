@@ -1,0 +1,20 @@
+{
+  "name": "ex-blog",
+  "version": "1.0.0",
+  "description": "Blog",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "watch": "node --watch app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/palascinochristian/express-blog-intro.git"
+  },
+  "author": "Palascino Christian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/palascinochristian/express-blog-intro/issues"
+  },
+  "homepage": "https://github.com/palascinochristian/express-blog-intro#readme"
+}
